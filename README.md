@@ -13,7 +13,7 @@
 ---
 
 ## 🎓 Sobre Mim
-
+<img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/gifs/coding.gif">
 <img align="right" alt="Coding GIF" width="350" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/gifs/coding.gif">
 
 Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por tecnologia e código limpo. Estou focado em construir projetos que resolvam problemas reais enquanto aprimoro minhas habilidades em programação.
