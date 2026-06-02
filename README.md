@@ -48,39 +48,6 @@ Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por des
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🌐 Web Technologies
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erickkto&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 💼 Projetos em Destaque
-
-<div align="center">
-
-| 🚀 **Projeto** | 📝 **Descrição** | 🛠️ **Tech Stack** |
-|:---|:---|:---|
-| **Projeto 1** | Descrição curta do projeto | Python · Django · PostgreSQL |
-| **Projeto 2** | Descrição curta do projeto | HTML · CSS · JavaScript |
-| **Projeto 3** | Descrição curta do projeto | React · Node.js · MongoDB |
-
-*Mais projetos em desenvolvimento... 🚀*
-
 </div>
 
 ---
