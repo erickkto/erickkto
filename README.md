@@ -12,7 +12,8 @@
 
 ---
 
-## Sobre Mim <img align="right" alt="Coding" width="50" height="50" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+## 🎓 Sobre Mim
+<img align="right" alt="Coding" width="50" height="50" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 
 Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por tecnologia e código limpo. Estou focado em construir projetos que resolvam problemas reais enquanto aprimoro minhas habilidades em programação.
 
