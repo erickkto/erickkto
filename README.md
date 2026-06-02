@@ -6,7 +6,7 @@
 
 <br>
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,30:FFEC8B,70:FFFACD,100:FFD700&height=200&section=header&text=Erick&fontSize=50&fontColor=FFFFFF&animation=twinkling)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Erick&fontSize=50&fontColor=0:FFFACD,50:FFD700,100:FFFFFF&animation=twinkling)
 
 </div>
 
