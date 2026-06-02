@@ -2,7 +2,7 @@
 
 ### 👋 Hii, im **Erick**!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=4F8EF7&center=true&vCenter=true&width=600&lines=erick+--studying+"Eng.+Software"+%40PUCPR;python+main.py+%23+construindo+projetos;git+commit+-m+"sempre+aprendendo+%F0%9F%9A%80;web+developer+%7C+python+enthusiast;curitiba+-+br)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=4F8EF7&center=true&vCenter=true&width=600&lines=erick+--studying+"Eng.+Software"+%40PUCPR;python+main.py+%23+construindo+projetos;git+commit+-m+"sempre+aprendendo+%F0%9F%9A%80";web+developer+%7C+python+enthusiast;curitiba+-+br)](https://git.io/typing-svg)
 
 <br>
 
