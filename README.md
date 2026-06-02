@@ -21,7 +21,7 @@ Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por tec
 | 🎓 **Formação** | Engenharia de Software |
 |:---|:---|
 | 🏫 **Faculdade** | **PUCPR** · Curitiba, BR |
-| 💻 **Foco** | 🌐 Desenvolvimento de Sistemas |
+| 💻 **Foco** | 🌐 Desenvolvimento de Software |
 | 📚 **Aprendendo** | Python avançado · Git · Lógica de Programação |
 | 🎯 **Objetivo** | Construir projetos que resolvem problemas reais |
 | 📍 **Local** | Curitiba, Paraná, Brasil |
