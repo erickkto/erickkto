@@ -11,11 +11,14 @@
 </div>
 
 ---
-
-## 🎓 Sobre Mim
-<img align="right" alt="Coding" width="50" height="50" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+## Sobre Mim
 
 Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por tecnologia e código limpo. Estou focado em construir projetos que resolvam problemas reais enquanto aprimoro minhas habilidades em programação.
+
+<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
 
 | 🎓 **Formação** | Engenharia de Software |
 |:---|:---|
@@ -25,7 +28,15 @@ Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por tec
 | 🎯 **Objetivo** | Construir projetos que resolvem problemas reais |
 | 📍 **Local** | Curitiba, Paraná, Brasil |
 
-<br clear="both">
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img alt="Coding" width="180" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
