@@ -59,23 +59,9 @@ Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por des
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/erickkto/erickkto/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickkto&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=erickkto&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erickkto&layout=compact&theme=dark&hide_border=true)
 
@@ -108,7 +94,6 @@ Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por des
 [![Email](https://img.shields.io/badge/Email-DA4433?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickkenzotnk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU_USUARIO)
 
 </div>
 
@@ -121,7 +106,5 @@ Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por des
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="30" height="30" alt="Coração" /> 
 
 **Estou sempre aprendendo e construindo** 🚀
-
-<img src="https://profile-counter.glitch.me/erickkto/count.svg" alt="Contador de Visitantes" />
 
 </div>
