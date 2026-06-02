@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding GIF" width="350" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/gifs/coding.gif">
 
-Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por desenvolvimento e código limpo. Estou focado em construir projetos que resolvam problemas reais enquanto aprimoro minhas habilidades em programação.
+Estudante de **Engenharia de Software na PUCPR · Curitiba**, apaixonado por tecnologia e código limpo. Estou focado em construir projetos que resolvam problemas reais enquanto aprimoro minhas habilidades em programação.
 
 | 🎓 **Formação** | Engenharia de Software |
 |:---|:---|
